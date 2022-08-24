@@ -11,7 +11,7 @@ def load_pickle(path):
     return data
 
 def save_json(data, path):
-    with open(path, "wb") as f:
+    with open(path, "w") as f:
         json.dump(data,f)
 
 def load_json(path):

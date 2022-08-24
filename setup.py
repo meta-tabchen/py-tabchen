@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setuptools.setup(
     name="pytabchen",
-    version="0.0.1",
+    version="0.0.1.2",
     author="TabChen",
     author_email="2808581543@qq.com",
     description="Finder papers",

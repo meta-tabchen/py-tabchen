@@ -4,4 +4,4 @@ This library contains the common tools used in python development. I hope the `p
 
 ## Install
 
-`pip install -U pytabchen`
+`pip install -U pytabchen -i https://pypi.python.org/simple`
